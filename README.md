@@ -1,3 +1,6 @@
 # Data-Analysis
 
-Countries data, data analysis and data visualization.
+Data analysis and data visualization.
+
+* Countries Data
+* SO Survey - Stack Overflow 2019 developer survey
