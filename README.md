@@ -2,7 +2,7 @@
 
 Stack Overflow 2019 developer survey analysis. 
 
-Analyses things such as. Education level, Developer type, Most common language etc.
+Analyses most common language used by Developers (according to SO survey).
 
 <h2 align="center">
   Most common language 
