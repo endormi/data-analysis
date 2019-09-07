@@ -1,6 +1,6 @@
 # so_survey2019
 
-Analysing Education level, Developer type and most common language used by Developers (according to SO survey).
+Analysing Education level, Developer type and Most Popular Languages used by developers (according to SO survey).
 
 * [Survey data](https://insights.stackoverflow.com/survey/2019)
 
@@ -21,7 +21,7 @@ Analysing Education level, Developer type and most common language used by Devel
 </p>
 
 <h2 align="center">
-  Most common language 
+  Most popular languages 
 </h2>
 
 <p align="center">
