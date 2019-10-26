@@ -2,9 +2,7 @@
 
 Analysing Education level, Developer type and Most Popular Languages used by developers (according to SO survey).
 
-* [Survey data - 2017](https://insights.stackoverflow.com/survey/2017)
-* [Survey data - 2018](https://insights.stackoverflow.com/survey/2018)
-* [Survey data - 2019](https://insights.stackoverflow.com/survey/2019)
+* [Survey data](https://insights.stackoverflow.com/survey)
 
 <h2 align="center">
   Education level
@@ -13,13 +11,13 @@ Analysing Education level, Developer type and Most Popular Languages used by dev
 ### 2017
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67617906-c45aaf80-f7f0-11e9-9b0d-feb6e4f62d19.PNG" alt="2017">
+<img src="https://user-images.githubusercontent.com/39559256/67618190-bd35a080-f7f4-11e9-832a-5c9918f59503.PNG" alt="2017">
 </p>
 
 ### 2018
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67617520-91162180-f7ec-11e9-8158-3a3a5c89a179.PNG" alt="2018">
+<img src="https://user-images.githubusercontent.com/39559256/67618155-2963d480-f7f4-11e9-9eaa-1cbf987e51ac.PNG" alt="2018">
 </p>
 
 ### 2019
@@ -35,13 +33,13 @@ Analysing Education level, Developer type and Most Popular Languages used by dev
 ### 2017
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67617820-bf493080-f7ef-11e9-9d42-64ab468c9eab.PNG" alt="2017">
+<img src="https://user-images.githubusercontent.com/39559256/67618202-eeae6c00-f7f4-11e9-85bd-93cf21258472.PNG" alt="2017">
 </p>
 
 ### 2018
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/67617435-ce2de400-f7eb-11e9-8a17-69160e237897.PNG" alt="2018">
+<img src="https://user-images.githubusercontent.com/39559256/67618164-6039ea80-f7f4-11e9-902f-4e13255b2652.PNG" alt="2018">
 </p>
 
 ### 2019
