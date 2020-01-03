@@ -10,11 +10,11 @@ pip install -r requirements.txt
 
 [Survey data](https://insights.stackoverflow.com/survey)
 
-* [Developer type yearly results](https://github.com/endormi/so_surveys/tree/master/dev_type)
+* [Developer type, yearly results](https://github.com/endormi/so_surveys/tree/master/dev_type)
 
-* [Education level yearly results](https://github.com/endormi/so_surveys/tree/master/edu)
+* [Education level, yearly results](https://github.com/endormi/so_surveys/tree/master/edu)
 
-* [Most popular languages yearly results](https://github.com/endormi/so_surveys/tree/master/languages)
+* [Most popular languages, yearly results](https://github.com/endormi/so_surveys/tree/master/languages)
 
 <h2 align="center">
   Developer type (Newest)
