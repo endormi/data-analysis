@@ -1,6 +1,6 @@
 # so_surveys [![Python Version](https://img.shields.io/badge/python-3.6.1-brightgreen.svg?)](https://www.python.org/downloads/)
 
-Analysing Education level, Developer type and Most Popular Languages used by developers (according to SO survey).
+Analysing Education level, Developer type and Most Popular Languages (according to SO survey).
 
 Install requirements:
 
