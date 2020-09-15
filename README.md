@@ -21,7 +21,7 @@ pip install -r requirements.txt
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/64477519-3164a800-d1a5-11e9-9ef2-3808d7281a57.PNG" alt="2019 Developer Type">
+<img src="https://user-images.githubusercontent.com/39559256/93242812-076a9c00-f790-11ea-9c96-b4576bcc82e7.PNG" alt="2020 Developer Type">
 </p>
 
 <h2 align="center">
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/64477529-56591b00-d1a5-11e9-9ad9-47a59450dca0.PNG" alt="2019 Education Level">
+<img src="https://user-images.githubusercontent.com/39559256/93242524-9aef9d00-f78f-11ea-85f2-c8bb9a616da8.PNG" alt="2020 Education Level">
 </p>
 
 <h2 align="center">
@@ -37,5 +37,5 @@ pip install -r requirements.txt
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/72083336-4cd5f000-330a-11ea-98ee-31e102a0485b.png" alt="2019 Most Popular Languages">
+<img src="https://user-images.githubusercontent.com/39559256/93242651-d0948600-f78f-11ea-8b7c-15e3f3a6735d.PNG" alt="2020 Most Popular Languages">
 </p>
