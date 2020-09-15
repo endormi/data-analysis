@@ -39,5 +39,5 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/93242812-076a9c00-f790-11ea-9c96-b4576bcc82e7.PNG" alt="2020">
+<img src="https://user-images.githubusercontent.com/39559256/93244842-0850fd00-f793-11ea-9777-c8c212bec923.PNG" alt="2020">
 </p>
